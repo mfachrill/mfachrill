@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **UI/UX**
 
-- 👨‍💻 All of my projects are available at [muchrielpx4.netlify.app](muchrielpx4.netlify.app)
-
 - 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **mysql,flutter,kotlin**
