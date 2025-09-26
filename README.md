@@ -16,7 +16,7 @@
 - 🌱 I’m learning **UI/UX Design**
 - 👯 I’m open to collaborate on **PHP OOP Projects**
 - 🤝 I’m looking for support in **UI/UX Design**
-- 💬 Ask me about **MySQL, Flutter, Kotlin**
+- 💬 Ask me about **MySQL, Design System, Laravel**
 - 📫 How to reach me: **mfachrilramadhan665@gmail.com**
 - ⚡ Fun fact: **I think I am very happy 😄**
 
