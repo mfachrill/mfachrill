@@ -1,173 +1,214 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Fachril Ramadhan
+# Muhammad Fachril Ramadhan
 
-### 💻 Junior Fullstack Developer | IT Developer
+### Junior Fullstack Developer · IT Developer
 
-I build web applications, internal systems, and digital experiences
-with a focus on **Laravel, PHP, MySQL, JavaScript, and UI/UX Design.**
+Building **web applications, internal systems, and digital experiences**
+with Laravel, PHP, MySQL, JavaScript, and modern UI/UX.
 
-<br>
+<br/>
 
 <a href="https://sukacoding.netlify.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-sukacoding.netlify.app-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:mfachrilramadhan665@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/mfachrill">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mfachrill&style=flat-square&color=blue" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Junior Fullstack Developer from Indonesia
-- 🔨 Currently working with **Laravel & PHP**
-- 🗄️ Interested in **Backend, Database & IT Systems**
-- 🎨 Learning and improving my **UI/UX Design** skills
-- 🧩 Experienced in building internal business applications
-- 🌱 Always learning new technologies and development practices
-- 🤝 Open to collaboration and new opportunities
+I'm a **Junior Fullstack Developer & IT Developer from Indonesia** with an interest in building practical digital solutions.
 
----
+My experience covers both **software development and IT operations**, allowing me to understand applications from development to deployment and day-to-day technical support.
 
-## 🛠️ Tech Stack
-
-### 💻 Development
-
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+* Building web applications with **Laravel & PHP**
+* Working with **MySQL & relational databases**
+* Developing internal business applications
+* Handling basic **server, domain, DNS, and cloud infrastructure**
+* Designing interfaces and user experiences with **Figma**
+* Interested in **Backend, Database, IT Systems & DevOps**
+* Open to collaboration and new opportunities
 
 ---
 
-## 💼 Experience
+## Tech Stack
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode" />
+</p>
+
+### IT & Infrastructure
+
+`Cloudflare` · `cPanel` · `FTP` · `DNS` · `NAS` · `Email Server` · `IT Troubleshooting`
+
+---
+
+## Experience
 
 ### Fullstack Developer
+
 **PT Mede Media Softika**
 
-- Developed web applications using Laravel and PHP
-- Worked with MySQL databases
-- Built and maintained frontend interfaces
-- Collaborated on application development and improvements
+* Developed web applications using **Laravel & PHP**
+* Designed and integrated frontend interfaces
+* Worked with **MySQL databases**
+* Maintained and improved existing applications
+* Collaborated during application development and implementation
 
-### IT / Technical Support
+### IT Developer / Technical Support
 
-Experienced in handling:
+Experience working with:
 
-- 🌐 Domain & DNS
-- ☁️ Cloudflare
-- 🖥️ cPanel & FTP
-- 📧 Email & server management
-- 💾 NAS / shared storage
-- 🛠️ IT troubleshooting
-- 📊 Internal business systems
-
----
-
-## ⭐ Featured Projects
-
-### 🏢 Regulation Management System
-
-Internal application designed to connect the central regulation division
-with other divisions.
-
-**Modules include:**
-
-- 📑 Perundang-undangan
-- 📋 DIP
-- 🕌 Sertifikasi Halal
-- 👥 Division management
-- 📊 Internal data management
-
-**Tech:** Laravel • PHP • MySQL
+| Area         | Experience                             |
+| ------------ | -------------------------------------- |
+| Domain & DNS | Domain configuration, DNS records      |
+| Cloud        | Cloudflare management                  |
+| Hosting      | cPanel & FTP                           |
+| Email        | Email & server management              |
+| Storage      | NAS & shared folders                   |
+| IT Support   | Troubleshooting & technical assistance |
+| Systems      | Internal business applications         |
 
 ---
 
-### 🍽️ Restaurant Cashier System
+## Featured Projects
 
-Web-based cashier application developed for a school project.
+### Regulation Management System
 
-**Features:**
+An internal business application designed to connect the **central regulation division with other divisions**.
 
-- Product management
-- Transaction management
-- Cashier system
-- Database management
+**Key Modules**
 
-**Tech:** Laravel • PHP • MySQL
+* Perundang-undangan
+* DIP
+* Sertifikasi Halal
+* Division Management
+* Internal Data Management
 
----
+**Stack**
 
-### 🎨 UI/UX Design Projects
-
-Some of my design projects include:
-
-- Bank Indonesia UI Mockup
-- SimpelBI
-- Website & landing page concepts
-- Business website designs
-
-**Tools:** Figma • UI/UX Design
+`Laravel` `PHP` `MySQL`
 
 ---
 
-## 📊 GitHub
+### Restaurant Cashier System
+
+A web-based cashier application developed as a school project.
+
+**Features**
+
+* Product management
+* Transaction management
+* Cashier system
+* Database management
+
+**Stack**
+
+`Laravel` `PHP` `MySQL`
+
+---
+
+### UI/UX Design
+
+Selected design projects and interface concepts.
+
+* Bank Indonesia UI Mockup
+* SimpelBI
+* Business Website Design
+* Landing Page Concepts
+* Web Application Interfaces
+
+**Tools**
+
+`Figma` `UI/UX Design`
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfachrill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mfachrill&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfachrill&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfachrill&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mfachrill&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mfachrill&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfachrill&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## Currently Learning
+
+```text
+Backend Development
+        ↓
+Database & System Design
+        ↓
+DevOps & Infrastructure
+        ↓
+Cloud Technologies
+        ↓
+Better UI/UX
+```
+
+---
+
+## Let's Connect
 
 <div align="center">
+
+If you're interested in collaboration, freelance projects, or opportunities,
+feel free to reach out.
+
+<br/>
 
 <a href="https://sukacoding.netlify.app">
-🌐 Portfolio
+<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="mailto:mfachrilramadhan665@gmail.com">
-📧 Email
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://github.com/mfachrill">
-🐙 GitHub
+<img src="https://img.shields.io/badge/Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
-### 💡 "Keep learning, keep building."
+**Keep learning. Keep building.**
 
 </div>
